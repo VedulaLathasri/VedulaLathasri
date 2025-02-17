@@ -1,4 +1,4 @@
-![](./media/bg%20gh%202.png)
+![](./media/bg%20gh%2021.png)
 <h1 align="center">Hi 👋, I'm Lathasri Vedula</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
